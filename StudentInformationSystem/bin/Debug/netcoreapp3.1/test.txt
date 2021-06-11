@@ -1,0 +1,30 @@
+﻿3/25/2020 6:59:00 PM;;ADMIN;Login unsuccessful. User expired
+3/25/2020 6:59:14 PM;;STUDENT;Login successful
+3/25/2020 7:01:52 PM;;STUDENT;Login unsuccessful. User expired
+3/25/2020 7:02:02 PM;;ADMIN;Login successful
+3/25/2020 7:04:53 PM;;STUDENT;Login successful
+3/25/2020 7:14:19 PM;;ADMIN;Login successful
+3/25/2020 7:17:02 PM;;ADMIN;Login successful
+3/27/2020 1:32:41 AM;;ADMIN;Login successful
+3/27/2020 1:41:55 AM;;STUDENT;Login unsuccessful. User expired
+3/27/2020 1:42:05 AM;;ADMIN;Login successful
+3/27/2020 4:00:42 AM;;STUDENT;Login unsuccessful. User expired
+3/27/2020 4:00:42 AM;;STUDENT;Login unsuccessful. User expired
+3/27/2020 4:00:45 AM;;STUDENT;Login unsuccessful. User expired
+3/27/2020 4:00:45 AM;;STUDENT;Login unsuccessful. User expired
+3/27/2020 4:00:45 AM;;STUDENT;Login unsuccessful. User expired
+3/27/2020 4:10:36 AM;;STUDENT;Login unsuccessful. User expired
+3/27/2020 4:11:44 AM;;STUDENT;Login unsuccessful. User expired
+3/31/2020 5:02:13 PM;;ADMIN;Login successful
+3/31/2020 5:02:46 PM;;ADMIN;Login successful
+4/1/2020 12:10:35 PM;;ADMIN;Login successful
+4/16/2020 8:20:02 PM;;ADMIN;Login successful
+4/16/2020 8:20:30 PM;;STUDENT;Login unsuccessful. User expired
+4/16/2020 8:24:17 PM;;ADMIN;Login successful
+4/16/2020 8:31:13 PM;;ADMIN;Login successful
+4/16/2020 8:37:53 PM;;ADMIN;Login successful
+4/16/2020 8:38:58 PM;;ADMIN;Login successful
+4/16/2020 8:42:29 PM;;ADMIN;Login successful
+4/16/2020 8:44:58 PM;;ADMIN;Login successful
+4/16/2020 8:46:25 PM;;ADMIN;Login successful
+5/4/2020 2:27:40 PM;;ADMIN;Login successful

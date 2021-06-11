@@ -1,0 +1,24 @@
+﻿<Window x:Class="StudentInfoSystem.LoginHomeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInfoSystem"
+        xmlns:MyNamespace="clr-namespace:StudentInfoSystem"
+        mc:Ignorable="d"
+        Title="Login-Home" Height="350" Width="625">
+    <Grid>
+        <Label Height="35" HorizontalAlignment="Left" Margin="10,10,0,0" Name="LoginHeading" Content="Login:" VerticalAlignment="Top" FontSize="17" />
+        <Label Height="23" HorizontalAlignment="Left" Margin="46,115,0,0" Name="label1" Content="Username" VerticalAlignment="Top" Width="67" />
+        <Label Height="23" HorizontalAlignment="Left" Margin="46,168,0,0" Name="label2" Content="Password" VerticalAlignment="Top" Width="77" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="118,115,0,0" Name="textBoxUsername" VerticalAlignment="Top" Width="247" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="118,168,0,0" Name="passwordBox1" VerticalAlignment="Top" Width="247" />
+        <Button Content="Login" Height="23" HorizontalAlignment="Left" Margin="118,211,0,0" Name="button1" 
+                VerticalAlignment="Top" Width="104"  Click="Login_Click" />
+        <TextBox Height="23" HorizontalAlignment="Left" x:Name ="errormessage" VerticalAlignment="Top" Width="247" Margin="118,253,0,0"/>
+        <TextBlock x:Name="CustomTxtBlock" TextWrapping="Wrap" Margin="370,72,21,101.5"/>
+
+        <MyNamespace:CustomControl1 Text="Rules" Margin="449,29,50,255.5" Click="CustomControl1_Click" 
+                                    MouseEnter="CustomControl1_MouseEnter" MouseLeave="CustomControl1_MouseLeave"/>
+    </Grid>
+</Window>

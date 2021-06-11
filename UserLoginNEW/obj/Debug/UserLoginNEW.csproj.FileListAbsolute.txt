@@ -1,0 +1,13 @@
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\bin\Debug\test.txt
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\bin\Debug\UserLoginNEW.exe.config
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\bin\Debug\UserLoginNEW.exe
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\bin\Debug\UserLoginNEW.pdb
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\obj\Debug\UserLoginNEW.csprojAssemblyReference.cache
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\obj\Debug\UserLoginNEW.exe
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\obj\Debug\UserLoginNEW.pdb
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\bin\Debug\EntityFramework.dll
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\bin\Debug\EntityFramework.xml
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\obj\Debug\UserLoginNEW.csproj.CopyComplete
+C:\Users\Mr Fixit\Desktop\PS_38_Hristo\UserLoginNEW\bin\Debug\log.txt

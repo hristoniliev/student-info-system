@@ -1,0 +1,43 @@
+﻿dfgtext file102/27/2020 12:53:44;;ADMIN;Login successful02/27/2020 12:54:18;;ADMIN;Login successful02/27/2020 12:57:29;;ADMIN;Login successful
+02/27/2020 12:57:58;;ADMIN;Login successful
+02/27/2020 12:59:16;;STUDENT;Login successful
+02/27/2020 13:01:54;;ADMIN;Login successful
+02/27/2020 13:02:46;;ADMIN;Login successful
+02/27/2020 13:03:25;;ADMIN;Login successful
+02/27/2020 13:03:39;;ADMIN;Changing date valid on Hristo
+02/27/2020 13:03:39;;ADMIN;Changing date valid on Hristo
+02/27/2020 13:03:39;;ADMIN;Changing date valid on Hristo
+02/27/2020 13:04:52;;ADMIN;Login successful
+02/27/2020 13:06:56;;ADMIN;Login successful
+02/27/2020 13:07:25;;ADMIN;Changing date valid on Hristo
+02/27/2020 13:07:37;;ADMIN;Login successful
+02/27/2020 13:10:25;;ADMIN;Login successful
+02/27/2020 13:32:33;;ADMIN;Login successful
+02/27/2020 13:33:56;;ADMIN;Changing role on Hristo
+02/27/2020 13:34:11;;ADMIN;Login successful
+02/27/2020 13:36:03;;ADMIN;Login successful
+02/27/2020 13:36:36;;ADMIN;Changing role on Hristo
+02/27/2020 13:37:30;;ADMIN;Login successful
+02/27/2020 13:38:02;;ADMIN;Login successful
+02/27/2020 13:38:07;;ADMIN;Changing role on Hristo
+02/27/2020 13:38:18;;ADMIN;Login successful
+02/27/2020 13:39:00;;STUDENT;Login successful
+02/27/2020 13:39:07;;STUDENT;Changing role on Kristian
+02/27/2020 13:39:21;;STUDENT;Login successful
+02/27/2020 16:19:08;;ADMIN;Login successful
+02/27/2020 16:20:04;;ADMIN;Login successful
+02/27/2020 17:04:10;;ADMIN;Login successful
+02/27/2020 17:15:15;;ADMIN;Login unsuccessful. User expired
+02/27/2020 17:19:02;;ADMIN;Login unsuccessful. User expired
+02/27/2020 17:21:35;;ADMIN;Login unsuccessful. User expired
+02/27/2020 17:21:56;;STUDENT;Login successful
+02/27/2020 17:21:56;;STUDENT;Login unsuccessful. User expired
+02/27/2020 17:22:52;;STUDENT;Login successful
+02/27/2020 17:23:12;;ADMIN;Login unsuccessful. User expired
+02/27/2020 17:27:40;;ADMIN;Login unsuccessful. User expired
+02/27/2020 17:29:27;;ADMIN;Login unsuccessful. User expired
+02/27/2020 17:30:45;;ADMIN;Login unsuccessful. User expired
+02/27/2020 17:31:00;;STUDENT;Login successful
+02/27/2020 17:33:04;;STUDENT;Login successful
+02/27/2020 17:39:14;;ADMIN;Login unsuccessful. User expired
+03/04/2020 00:13:28;;ADMIN;Login unsuccessful. User expired
